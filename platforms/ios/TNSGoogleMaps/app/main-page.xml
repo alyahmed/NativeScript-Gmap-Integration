@@ -1,0 +1,5 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="pageLoaded">
+  <GridLayout rows="auto, auto, auto, *">
+    <Placeholder row="3" creatingView="createMapView" />
+  </GridLayout>
+</Page>
